@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.3cbf48f7.chunk.css",
-    "main.js": "/static/js/main.26452a1d.chunk.js",
-    "main.js.map": "/static/js/main.26452a1d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d9bd5b0e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d9bd5b0e.js.map",
-    "static/css/2.3a30ecb3.chunk.css": "/static/css/2.3a30ecb3.chunk.css",
-    "static/js/2.6e95cfd3.chunk.js": "/static/js/2.6e95cfd3.chunk.js",
-    "static/js/2.6e95cfd3.chunk.js.map": "/static/js/2.6e95cfd3.chunk.js.map",
-    "static/js/3.087bddca.chunk.js": "/static/js/3.087bddca.chunk.js",
-    "static/js/3.087bddca.chunk.js.map": "/static/js/3.087bddca.chunk.js.map",
+    "main.css": "/static/css/main.61a91081.chunk.css",
+    "main.js": "/static/js/main.0a806469.chunk.js",
+    "main.js.map": "/static/js/main.0a806469.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a27d119a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a27d119a.js.map",
+    "static/css/2.bb2bf0cc.chunk.css": "/static/css/2.bb2bf0cc.chunk.css",
+    "static/js/2.cc9a7e64.chunk.js": "/static/js/2.cc9a7e64.chunk.js",
+    "static/js/2.cc9a7e64.chunk.js.map": "/static/js/2.cc9a7e64.chunk.js.map",
+    "static/js/3.f1639be5.chunk.js": "/static/js/3.f1639be5.chunk.js",
+    "static/js/3.f1639be5.chunk.js.map": "/static/js/3.f1639be5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.3a30ecb3.chunk.css.map": "/static/css/2.3a30ecb3.chunk.css.map",
-    "static/css/main.3cbf48f7.chunk.css.map": "/static/css/main.3cbf48f7.chunk.css.map",
-    "static/js/2.6e95cfd3.chunk.js.LICENSE.txt": "/static/js/2.6e95cfd3.chunk.js.LICENSE.txt",
+    "static/css/2.bb2bf0cc.chunk.css.map": "/static/css/2.bb2bf0cc.chunk.css.map",
+    "static/css/main.61a91081.chunk.css.map": "/static/css/main.61a91081.chunk.css.map",
+    "static/js/2.cc9a7e64.chunk.js.LICENSE.txt": "/static/js/2.cc9a7e64.chunk.js.LICENSE.txt",
     "static/media/avat.c9a09e97.jpg": "/static/media/avat.c9a09e97.jpg",
-    "static/media/book.b36e5261.png": "/static/media/book.b36e5261.png",
-    "static/media/teacher.9d3d3cbe.png": "/static/media/teacher.9d3d3cbe.png"
+    "static/media/blue.ac03137c.jpeg": "/static/media/blue.ac03137c.jpeg",
+    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9bd5b0e.js",
-    "static/css/2.3a30ecb3.chunk.css",
-    "static/js/2.6e95cfd3.chunk.js",
-    "static/css/main.3cbf48f7.chunk.css",
-    "static/js/main.26452a1d.chunk.js"
+    "static/js/runtime-main.a27d119a.js",
+    "static/css/2.bb2bf0cc.chunk.css",
+    "static/js/2.cc9a7e64.chunk.js",
+    "static/css/main.61a91081.chunk.css",
+    "static/js/main.0a806469.chunk.js"
   ]
 }
